@@ -93,7 +93,7 @@ http://137.184.103.55/
 
 1. Clone the repository: https://github.com/arthureb-dev/taskflow
     ```sh
-    git clone https://github.com/yourusername/taskflow.git
+    git clone https://github.com/arthureb-dev/taskflow.git
     cd taskflow
     ```
 2. Install PHP dependencies:
