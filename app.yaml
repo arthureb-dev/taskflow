@@ -1,0 +1,6 @@
+name: taskflow
+owner: arthureb-dev
+package: '.'
+kind: wasmer.io/App.v0
+scaling:
+  mode: single_concurrency
