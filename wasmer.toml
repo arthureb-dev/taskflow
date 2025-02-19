@@ -1,3 +1,8 @@
+[package]
+name = 'arthureb-dev/taskflow'
+version = '0.1.0'
+description = 'taskflow'
+
 [dependencies]
 "php/php" = "=8.3.4"
 
@@ -10,3 +15,4 @@ module = "php/php:php"
 runner = "wasi"
 [command.annotations.wasi]
 main-args = ["-t", "/app/public", "-S", "localhost:8080"]
+repository = "https://github.com/arthureb-dev/taskflow"
